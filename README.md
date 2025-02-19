@@ -13,8 +13,6 @@ Passionate Software Engineer with 5+ years of experience working with PHP, Pytho
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
 ### 🌍 About Me:
 - 💡 Experienced in **backend development, cloud computing, and infrastructure**.
 - 🚀 Worked at **Cornershop by Uber**, leading development and automation projects.
@@ -28,3 +26,5 @@ Passionate Software Engineer with 5+ years of experience working with PHP, Pytho
 - 📝 Blog: [dev.to/marcelopincheira](https://dev.to/marcelopincheira)
 - 💻 GitHub: [github.com/MarceloPincheira](https://github.com/MarceloPincheira)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarceloPincheira&theme=radical)](https://git.io/streak-stats)
