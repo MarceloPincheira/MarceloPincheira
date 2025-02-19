@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Se ejecuta todos los días a medianoche
   workflow_dispatch:  # Permite ejecutarlo manualmente
 
+permissions:
+  contents: write  # 🔥 Permite hacer push a la rama output
+
 jobs:
   generate:
     runs-on: ubuntu-latest
