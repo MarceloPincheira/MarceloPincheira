@@ -27,4 +27,10 @@ Passionate Software Engineer with 5+ years of experience working with PHP, Pytho
 - 💻 GitHub: [github.com/MarceloPincheira](https://github.com/MarceloPincheira)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarceloPincheira&theme=radical)](https://git.io/streak-stats)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MarceloPincheira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
