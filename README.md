@@ -2,6 +2,8 @@
 Passionate Software Engineer with 5+ years of experience working with PHP, Python, and Go. 🚀  
 
 ### 🛠 Tech Stack:
+<div align="center">
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -11,6 +13,9 @@ Passionate Software Engineer with 5+ years of experience working with PHP, Pytho
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+</div>
 
 
 ### 🌍 About Me:
