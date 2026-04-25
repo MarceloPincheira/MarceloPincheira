@@ -26,5 +26,5 @@
 - 🇲🇹 Lived in **Malta**, where I significantly improved my English skills through immersion and cultural exchange.
 
 ### 📫 Contact:
-- 💼 LinkedIn: [linkedin.com/in/marcelopincheira](https://linkedin.com/in/marcelolienlaf)
+- 💼 LinkedIn: [linkedin.com/in/marcelolienlaf](https://linkedin.com/in/marcelolienlaf)
 - 📝 Blog: [dev.to/marcelopincheira](https://dev.to/marcelopincheira)
