@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm Marcelo Pincheira
-Passionate Software Engineer with 5+ years of experience working with PHP, Python, and Go. 🚀  
+
+### Co-Founder at [PassMed](https://passmed.lat/) | Software Engineer 🚀
 
 ### 🛠 Tech Stack:
 <div align="center">
@@ -27,4 +28,3 @@ Passionate Software Engineer with 5+ years of experience working with PHP, Pytho
 ### 📫 Contact:
 - 💼 LinkedIn: [linkedin.com/in/marcelopincheira](https://linkedin.com/in/marcelopincheira)
 - 📝 Blog: [dev.to/marcelopincheira](https://dev.to/marcelopincheira)
-- 💻 GitHub: [github.com/MarceloPincheira](https://github.com/MarceloPincheira)
